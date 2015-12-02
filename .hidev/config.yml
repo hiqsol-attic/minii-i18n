@@ -1,0 +1,13 @@
+package:
+    type:           library
+    name:           minii-i18n
+    namespace:      yii\i18n
+    title:          minii i18n
+    keywords:       minii, i18n
+
+composer.json:
+    name:           minii/i18n
+
+require:
+    hiqdev/hidev-hiqdev: "*"
+    hiqdev/hidev-php:    "*"
