@@ -1,5 +1,5 @@
-hiqdev/minii-i18n changelog
----------------------------
+minii/i18n changelog
+--------------------
 
 ## Under development
 
