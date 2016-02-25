@@ -1,7 +1,7 @@
 minii/i18n changelog
 --------------------
 
-## Under development
+## 0.0.1 2016-02-25
 
 - Added basics
 
