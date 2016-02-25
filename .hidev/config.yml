@@ -4,14 +4,15 @@ github:
 package:
     type:           library
     name:           i18n
-    namespace:      yii\i18n
-    src:            src/i18n
     title:          minii i18n
     keywords:       minii, i18n
+    namespace:      yii\i18n
+    src:            src/i18n
     description:    |
         [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
-        This package provides yii\i18n and yii\messages.
+
+        This package provides `yii\i18n` and `yii\messages`.
 
 require:
-    minii/hidev-vendor: "*"
     hiqdev/hidev-php:   "*"
+    minii/hidev-vendor: "*"
